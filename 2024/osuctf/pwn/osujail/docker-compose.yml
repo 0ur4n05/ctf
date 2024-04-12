@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  chall:
+    build: ./app
+    ports:
+      - 10727:1337

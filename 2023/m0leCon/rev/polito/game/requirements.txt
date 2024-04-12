@@ -1,0 +1,2 @@
+pygame==2.4.0
+pygame_textinput==1.0.1
